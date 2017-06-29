@@ -1,2 +1,2 @@
 # sw_summer_java
-software summber vacation java class
+GitHub 실습을 위한 저장소입니다.
